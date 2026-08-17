@@ -1,0 +1,11 @@
+{
+  "domain": "home_consumption_analyzer",
+  "name": "Home Consumption Analyzer",
+  "codeowners": ["@benji-beit"],
+  "config_flow": true,
+  "documentation": "https://github.com/benji-beit/ha-home-consumption-analyzer",
+  "issue_tracker": "https://github.com/benji-beit/ha-home-consumption-analyzer/issues",
+  "iot_class": "calculated",
+  "requirements": [],
+  "version": "0.1.0"
+}

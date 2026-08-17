@@ -1,0 +1,62 @@
+{
+  "config": {
+    "step": {
+      "user": {
+        "title": "Home Consumption Analyzer",
+        "description": "Sélectionnez vos capteurs d'énergie cumulée (kWh, total_increasing), vos plages Heures Pleines, et les deux périodes de moyenne mobile.",
+        "data": {
+          "export_grid_t1": "Export réseau - Tarif 1 (requis)",
+          "export_grid_t2": "Export réseau - Tarif 2",
+          "import_grid_t1": "Import réseau - Tarif 1 (requis)",
+          "import_grid_t2": "Import réseau - Tarif 2",
+          "pv_inverter_1": "Production PV - Onduleur 1 (requis)",
+          "pv_inverter_2": "Production PV - Onduleur 2",
+          "pv_inverter_3": "Production PV - Onduleur 3",
+          "battery_charge_1": "Charge batterie 1 (sur onduleur 1)",
+          "battery_charge_2": "Charge batterie 2 (sur onduleur 2)",
+          "battery_charge_3": "Charge batterie 3 (sur onduleur 3)",
+          "battery_discharge_1": "Décharge batterie 1 (sur onduleur 1)",
+          "battery_discharge_2": "Décharge batterie 2 (sur onduleur 2)",
+          "battery_discharge_3": "Décharge batterie 3 (sur onduleur 3)",
+          "ev_charge": "Charge véhicule électrique",
+          "peak1_start": "Heures pleines - Plage 1 - Début",
+          "peak1_end": "Heures pleines - Plage 1 - Fin",
+          "peak2_start": "Heures pleines - Plage 2 - Début",
+          "peak2_end": "Heures pleines - Plage 2 - Fin",
+          "avg_days_1": "Moyenne mobile - période courte (jours)",
+          "avg_days_2": "Moyenne mobile - période longue (jours)"
+        }
+      }
+    }
+  },
+  "options": {
+    "step": {
+      "init": {
+        "title": "Home Consumption Analyzer",
+        "description": "Sélectionnez vos capteurs d'énergie cumulée (kWh, total_increasing), vos plages Heures Pleines, et les deux périodes de moyenne mobile.",
+        "data": {
+          "export_grid_t1": "Export réseau - Tarif 1 (requis)",
+          "export_grid_t2": "Export réseau - Tarif 2",
+          "import_grid_t1": "Import réseau - Tarif 1 (requis)",
+          "import_grid_t2": "Import réseau - Tarif 2",
+          "pv_inverter_1": "Production PV - Onduleur 1 (requis)",
+          "pv_inverter_2": "Production PV - Onduleur 2",
+          "pv_inverter_3": "Production PV - Onduleur 3",
+          "battery_charge_1": "Charge batterie 1 (sur onduleur 1)",
+          "battery_charge_2": "Charge batterie 2 (sur onduleur 2)",
+          "battery_charge_3": "Charge batterie 3 (sur onduleur 3)",
+          "battery_discharge_1": "Décharge batterie 1 (sur onduleur 1)",
+          "battery_discharge_2": "Décharge batterie 2 (sur onduleur 2)",
+          "battery_discharge_3": "Décharge batterie 3 (sur onduleur 3)",
+          "ev_charge": "Charge véhicule électrique",
+          "peak1_start": "Heures pleines - Plage 1 - Début",
+          "peak1_end": "Heures pleines - Plage 1 - Fin",
+          "peak2_start": "Heures pleines - Plage 2 - Début",
+          "peak2_end": "Heures pleines - Plage 2 - Fin",
+          "avg_days_1": "Moyenne mobile - période courte (jours)",
+          "avg_days_2": "Moyenne mobile - période longue (jours)"
+        }
+      }
+    }
+  }
+}
